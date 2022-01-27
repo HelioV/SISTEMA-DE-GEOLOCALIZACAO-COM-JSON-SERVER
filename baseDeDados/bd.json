@@ -1,0 +1,76 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "Ermelinda Lusolo Tavares",
+      "pais": "Angola",
+      "provincia": "Viana",
+      "latitude": -8.902031417289521,
+      "longitude": 13.371734619140625
+    },
+    {
+      "nome": "Marlene Francisco",
+      "pais": "Angola",
+      "provincia": "Malanje",
+      "latitude": -9.47073567413092,
+      "longitude": 16.380615234375,
+      "id": 2
+    },
+    {
+      "nome": "Mateu Adão",
+      "pais": "Angola",
+      "provincia": "Huambo",
+      "latitude": -12.704650508287893,
+      "longitude": 15.776367187499998,
+      "id": 3
+    },
+    {
+      "nome": "Restaurante",
+      "pais": "Brasil",
+      "provincia": "Minas Gerais",
+      "latitude": "-21.963424936844223",
+      "longitude": "-42.2314453125",
+      "id": 4
+    },
+    {
+      "nome": "Voos",
+      "pais": "Argentina",
+      "provincia": "Santa Rosa",
+      "latitude": "-36.57142382346275",
+      "longitude": "-64.302978515625",
+      "id": 5
+    },
+    {
+      "nome": "Aureporto Agora",
+      "pais": "Namibia",
+      "provincia": "Windoeck",
+      "latitude": "-22.471954507739213",
+      "longitude": "17.0947265625",
+      "id": 13
+    },
+    {
+      "nome": "Ana Tavares Viegas",
+      "pais": "México",
+      "provincia": "Zaranza",
+      "latitude": "23.039297747769726",
+      "longitude": "-102.26074218749999",
+      "id": 14
+    },
+    {
+      "nome": "Aeoroporto",
+      "pais": "Mali",
+      "provincia": "Mbambe-yeto",
+      "latitude": "17.09879223767869",
+      "longitude": "-1.40625",
+      "id": 15
+    },
+    {
+      "nome": "Oficina Mamadú",
+      "pais": "USA",
+      "provincia": "Wis",
+      "latitude": "44.74673324024678",
+      "longitude": "-89.7802734375",
+      "id": 16
+    }
+  ]
+}
